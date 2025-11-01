@@ -1,4 +1,4 @@
-# Raspberry Pi 4 GPIO Fan Control on LineageOS 23
+# Raspberry Pi 4 GPIO Fan Control on LineageOS 23 AndroidTV
 
 I made this tutorial to show how I set up a 5V fan controlled by GPIO 23 on my Raspberry Pi 4 running LineageOS 23. 
 
